@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CovidShop</string>
+    <string name="Attention">Внимание! Максимальное количество посетителей для магазина - 90 человек</string>
+    <string name="currentcustomers">Текущее количество</string>
+    <string name="Result">Узнать результат</string>
+    <string name="ok">В магазине находится допустимое количество посетителей</string>
+    <string name="no">Допустимое количество посетителей магазина превышено на</string>
+    <string name="human">человек</string>
+</resources>
